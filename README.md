@@ -1,2 +1,2 @@
 # kalkulator
-- this is small project from me
+- this mini project from me
